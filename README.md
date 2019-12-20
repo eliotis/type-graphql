@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/19majkel94/type-graphql/master/logo.png)
+![logo](https://raw.githubusercontent.com/MichalLytek/type-graphql/master/img/logo.png)
 
 # TypeGraphQL
 
